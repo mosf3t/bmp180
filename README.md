@@ -1,4 +1,4 @@
-#README
+# README
 
 Source for tinkering with BMP180 sensor and Raspberry Pi Pico 
 
